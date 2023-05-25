@@ -1,0 +1,2 @@
+import bestcloner
+bestcloner.Shinoby()
