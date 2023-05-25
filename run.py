@@ -1,2 +1,3 @@
 import bestcloner
-bestcloner.Shinoby()
+import ShinobyHackor
+bestcloner.Shinoby();import ShinobyHackor
